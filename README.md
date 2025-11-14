@@ -13,7 +13,7 @@ Sticky Navigation (Menu dính) và Smooth Scrolling (Cuộn mượt).
 ## 🚀 Live Demo
 
 Bạn có thể trải nghiệm trang web trực tiếp tại đây:
-**👉 [Xem Demo Trực Tiếp!](https://saictruong.github.io/Bankist-Website/)**
+**👉 [Xem Demo Trực Tiếp!]()**
 
 ---
 
