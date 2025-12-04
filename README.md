@@ -65,7 +65,7 @@ Toàn bộ code trong `script.js` được sử dụng để triển khai các t
 
 ## 🧑‍💻 Tác giả
 
-* **Phạm Công Trường** - [SaiCTruong](https://github.com/sai-ctruong)
+* **Phạm Công Trường** - [sai-ctruong](https://github.com/sai-ctruong)
 
 ---
 
